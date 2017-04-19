@@ -1,5 +1,5 @@
 /*
-	FortiNet VPNSSL (WEB) Patch for Angular (1.3.18)
+	FortiNet SSLVPN (WEB) Patch for Angular (1.3.18)
 	Makes routes with angular possible...
 */
 function _fgt_angularLocation(a){
