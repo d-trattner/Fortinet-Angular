@@ -1,4 +1,4 @@
-#Fortinet-Angular Patch
+# Fortinet-Angular Patch
 
 I had issues using angular JS (1.3) with Fortinet SSLVPN (Web).
 
